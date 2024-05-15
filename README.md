@@ -1,3 +1,3 @@
-online-link :  https://sorting-algo-visualiser.herokuapp.com/ 
+online-link :  https://sorting-visualiser-blue.vercel.app/
 
 do run on PC for better visuals
